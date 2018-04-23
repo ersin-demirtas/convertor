@@ -75,6 +75,8 @@ class Convertor
             //set from unit
             $this->from($value, $unit);
         }
+        
+        return $this;
 
     }
 
