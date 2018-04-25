@@ -1,8 +1,5 @@
-![Convertor](http://olifolkerd.github.io/convertor/images/logo.png)
-
 An easy to use PHP unit conversion library.
 
-Full documentation & demos can be found at: [http://olifolkerd.github.io/convertor](http://olifolkerd.github.io/convertor)
 
 Convertor 
 ================================
@@ -38,13 +35,13 @@ Add the following to your `composer.json` file:
 	...
 	{
 		"type": "vcs",
-		"url": "https://github.com/olifolkerd/convertor"
+		"url": "https://github.com/ersin-demirtas/convertor"
 	}
 	...
 ],
 "require": {
 	...
-	"olifolkerd/convertor": "dev-master",
+	"ersin-demirtas/convertor": "1.1.*",
 	...
 }
 ```
@@ -93,3 +90,4 @@ Additionally the `Units.php` file contains area-density definitions.
 Resources
 ================================
 - PHP-Skeleton as a template for the autoloading structure: [github](https://github.com/petk/php-skeleton)
+- Original Repo: Full documentation & demos can be found at: [http://olifolkerd.github.io/convertor](http://olifolkerd.github.io/convertor)
